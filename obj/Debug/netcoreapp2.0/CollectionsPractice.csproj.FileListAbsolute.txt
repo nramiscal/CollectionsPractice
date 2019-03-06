@@ -1,0 +1,10 @@
+/Users/nramiscal/Desktop/CSharp/CollectionsPractice/bin/Debug/netcoreapp2.0/CollectionsPractice.deps.json
+/Users/nramiscal/Desktop/CSharp/CollectionsPractice/bin/Debug/netcoreapp2.0/CollectionsPractice.runtimeconfig.json
+/Users/nramiscal/Desktop/CSharp/CollectionsPractice/bin/Debug/netcoreapp2.0/CollectionsPractice.runtimeconfig.dev.json
+/Users/nramiscal/Desktop/CSharp/CollectionsPractice/bin/Debug/netcoreapp2.0/CollectionsPractice.dll
+/Users/nramiscal/Desktop/CSharp/CollectionsPractice/bin/Debug/netcoreapp2.0/CollectionsPractice.pdb
+/Users/nramiscal/Desktop/CSharp/CollectionsPractice/obj/Debug/netcoreapp2.0/CollectionsPractice.csproj.CoreCompileInputs.cache
+/Users/nramiscal/Desktop/CSharp/CollectionsPractice/obj/Debug/netcoreapp2.0/CollectionsPractice.AssemblyInfoInputs.cache
+/Users/nramiscal/Desktop/CSharp/CollectionsPractice/obj/Debug/netcoreapp2.0/CollectionsPractice.AssemblyInfo.cs
+/Users/nramiscal/Desktop/CSharp/CollectionsPractice/obj/Debug/netcoreapp2.0/CollectionsPractice.dll
+/Users/nramiscal/Desktop/CSharp/CollectionsPractice/obj/Debug/netcoreapp2.0/CollectionsPractice.pdb
